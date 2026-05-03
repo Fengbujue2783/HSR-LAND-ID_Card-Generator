@@ -30,4 +30,8 @@
 将生成的图片用于现场打印
 
 
-## 感谢B站UP主 [@白木哒哒哒](https://space.bilibili.com/15232589) 为该活动提供的头像
+## 感谢B站UP主 [@白木哒哒哒](https://space.bilibili.com/15232589) 为星铁LAND提供的头像
+
+## 感谢B站UP主 [@幻朔](https://space.bilibili.com/2127972) 为绝区零FES提供的头像
+
+## 感谢B站UP主 [@阿灯不太亮](https://space.bilibili.com/55434671) 为原神FES提供的头像
